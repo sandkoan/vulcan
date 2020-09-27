@@ -42,7 +42,7 @@ let s:vc.purple:       ['#BC74C4', ]
 " }}}
 
 " Highlighting Function {{{
-" Taken from Steven Losh's badwolf 
+" Taken from Steven Losh's Bad Wolf
 function! s:HL(group, fg, ...)
     " Arguments: group, guifg, guibg, gui, guisp
 
