@@ -1,0 +1,10 @@
+name: 'vulcan'
+version: '1.0.0'
+license: 'MIT'
+author: 'Govind Gnanakumar'
+url: 'https://github.com/sandkoan/vulcan'
+description: 'A vim colorscheme inspired by Atom One Dark'
+colorschemes:
+  - name: 'vulcan'
+    background: 'dark'
+    palette: 'vulcan'

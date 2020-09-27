@@ -1,0 +1,81 @@
+# BASE UI
+ColorColumn: '- grey -'
+Conceal: '- grey -'
+Cursor: '- blue -'
+CursorIM: '- white -'
+CursorColumn: '- grey'
+CursorLine: '- grey'
+Directory: 'blue - u'
+DiffAdd: 'green grey -'
+DiffChange: 'orange grey -'
+DiffDelete: 'red grey -'
+DiffText: 'cyan - -'
+ErrorMsg: 'red - -'
+VertSplit: '- grey -'
+Folded: '- grey -'
+FoldColumn: 'white grey -'
+SignColumn: 'grey black -'
+IncSearch: 'grey black -'
+LineNr: 'grey black -'
+MatchParen: 'blue - u'
+ModeMsg: 'cyan - -'
+MoreMsg: 'purple - -'
+NonText: 'purple - -'
+Normal: 'white - -'
+PMenu: 'white grey -'
+PMenuSel: 'blue grey -'
+PmenuSbar: '- grey -'
+PmenuThumb: 'white grey'
+Question: 'white - -'
+Search: '- - -'
+SpecialKey: 'cyan - -'
+SpellBad: 'red - u'
+SpellLocal: 'orange - c'
+SpellCap: 'orange - c'
+SpellRare: 'green - c'
+StatusLine: 'blue grey -'
+StatusLineNC: 'white grey -'
+TabLine: 'white grey -'
+TabLineFill: '- grey -'
+TabLineSel: 'black blue -'
+Title: 'green - u'
+Visual: '- grey -'
+VisualNOS: '- grey -'
+WarningMsg: 'red grey -'
+WildMenu: 'orange grey -'
+# BASE SYNTAX
+Comment: 'grey - -'
+Constant: 'orange - -'
+String: 'green - -' # Constant
+Character: 'yeallow - -' # Constant
+Boolean: 'red - -' # Constant
+Number: 'brightgreen - -' # Constant
+Float: 'cyan' # Constant
+Identifier: 'purple - -'
+Function: 'blue - i' # Identifier
+Statement: 'blue - -'
+Conditional: 'blue - -' # Statement
+Repeat: 'purple - -' # Statement
+Label: 'orange - -' # Statement
+Operator: 'cyan - -' # Statement
+Keyword: 'blue - -' # Statement
+Exception: 'red - -' # Statement
+PreProc: 'orange - -'
+Include: 'blue - i' # PreProc
+Define: 'blue - i' # PreProc
+Macro: 'blue - i' # PreProc
+PreCondit: 'blue - i' # PreProc
+Type: 'blue - -'
+StorageClass: 'green - -' # Type
+Structure: 'purple - -' # Type
+Typedef: 'purple - -' # Type
+Special: 'purple - -'
+SpecialChar: 'cyan - -' # Special
+Tag: 'cyan - -' # Special
+Delimiter: 'yellow - -' # Special
+SpecialComment: 'grey - -' # Special
+Debug: 'red - -' # Special
+Underlined: '- - u'
+Ignore: 'white - u'
+Error: 'red grey u'
+Todo: 'purple grey -'
