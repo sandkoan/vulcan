@@ -56,7 +56,7 @@ Determines how light to render the background of the tab line (the line at the
 top of the screen containing the various tabs (only in console mode)).
 
 Can be set to `0`, `1`, `2`, or `3`.
-
+```vim
     " Make the tab line darker than the background.
     let g:badwolf_tabline = 0
 
@@ -68,25 +68,25 @@ Can be set to `0`, `1`, `2`, or `3`.
 
     " Make the tab line much lighter than the background.
     let g:badwolf_tabline = 3
-
+```
 Default: `1` (same color as the background)
 
 ### g:badwolf\_html\_link\_underline
 
 Determines whether text inside `a` tags in HTML files will be underlined.
-
+```vim
     " Turn off HTML link underlining
     let g:badwolf_html_link_underline = 0
-
+```
 Default: `1` (on)
 
 ### g:badwolf\_css\_props\_highlight
 
 Determines whether CSS properties should be highlighted.
-
+```vim
     " Turn on CSS properties highlighting
     let g:badwolf_css_props_highlight = 1
-
+```
 Default: `0` (off)
 
 Contributing
